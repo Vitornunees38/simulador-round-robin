@@ -1,4 +1,4 @@
-# 🔄 Simulador de Escalonador Round Robin
+# Simulador de Escalonador Round Robin
 
 Projeto desenvolvido para a disciplina de Arquitetura de Computadores e Sistemas Operacionais do curso de Ciência da Computação - UFRJ.
 
@@ -6,7 +6,7 @@ Este simulador implementa um escalonador baseado no algoritmo **Round Robin**, i
 
 ---
 
-## 📚 Conceitos Implementados
+## Conceitos Implementados
 
 ### Escalonamento Round Robin
 
@@ -46,7 +46,7 @@ O simulador identifica situações em que não existem processos prontos para ex
 
 ---
 
-## ⚙️ Configurações da Simulação
+## Configurações da Simulação
 
 | Parâmetro                  | Valor      |
 | -------------------------- | ---------- |
@@ -59,7 +59,7 @@ O simulador identifica situações em que não existem processos prontos para ex
 
 ---
 
-## 🏗 Estruturas Utilizadas
+## Estruturas Utilizadas
 
 O projeto foi desenvolvido em C utilizando:
 
@@ -81,7 +81,7 @@ Cada processo possui informações como:
 
 ---
 
-## ▶️ Modos de Execução
+## Modos de Execução
 
 ### Execução Passo a Passo
 
@@ -95,7 +95,7 @@ Executa toda a simulação sem interrupções.
 
 ---
 
-## 📊 Exemplo de Saída
+## Exemplo de Saída
 
 ```text
 [Ciclo 5]
@@ -111,7 +111,7 @@ I/O Disco: P3(4)
 
 ---
 
-## 🚀 Como Compilar
+## Como Compilar
 
 ### Linux / macOS
 
@@ -129,7 +129,7 @@ round_robin.exe
 
 ---
 
-## 🎯 Objetivos de Aprendizado
+## Objetivos de Aprendizado
 
 Durante o desenvolvimento deste projeto foram praticados:
 
@@ -143,7 +143,7 @@ Durante o desenvolvimento deste projeto foram praticados:
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Vitor Nunes
 
